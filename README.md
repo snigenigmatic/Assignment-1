@@ -10,7 +10,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Assignment
+  cd Assignment-1
 ```
 
 Install dependencies
